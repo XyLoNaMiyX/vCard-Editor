@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<languages>
+  <entry control="menuStrip">
+  </entry>
+  <entry control="fileTSMI">File</entry>
+  <entry control="openTSMI">Open</entry>
+  <entry control="saveTSMI">Save</entry>
+  <entry control="saveAsTSMI">Save as...</entry>
+  <entry control="toolStripSeparator1">
+  </entry>
+  <entry control="combineTSMI">Combine vCards</entry>
+  <entry control="helpTSMI">Help</entry>
+  <entry control="listView">
+  </entry>
+  <entry control="listViewCMS">
+  </entry>
+  <entry control="editTSMI">Edit contact</entry>
+  <entry control="removeTSMI">Remove contact</entry>
+  <entry control="addTSMI">Add contact</entry>
+  <entry control="pictureBox">
+  </entry>
+  <entry control="detailsGB">Details</entry>
+  <entry control="infoL">
+  </entry>
+  <entry control="languageTSMI">Language</entry>
+  <entry control="loadLangTSMI">Load language file</entry>
+</languages>

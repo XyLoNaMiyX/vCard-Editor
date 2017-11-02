@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<languages>
+  <entry control="menuStrip">
+  </entry>
+  <entry control="archivoToolStripMenuItem">Archivooooajaja</entry>
+  <entry control="openTSMI">abreme negro</entry>
+  <entry control="saveTSMI">guardal xd</entry>
+  <entry control="saveAsTSMI">saveas</entry>
+  <entry control="toolStripSeparator1">
+  </entry>
+  <entry control="combineTSMI">COMBINATE</entry>
+  <entry control="helpTSMI">HELP</entry>
+  <entry control="listView">
+  </entry>
+  <entry control="listViewCMS">
+  </entry>
+  <entry control="editTSMI">EDITAME PUTO NEGRO</entry>
+  <entry control="removeTSMI">Borrame :(</entry>
+  <entry control="addTSMI">yay añadir xd</entry>
+  <entry control="pictureBox">
+  </entry>
+  <entry control="detailsGB">details</entry>
+  <entry control="infoL">
+  </entry>
+  <entry control="languageTSMI">languageeeeeee</entry>
+  <entry control="loadLangTSMI">cargar arshivo :3</entry>
+</languages>

@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Vcard Reader.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3833">
+      <stop
+         style="stop-color:#464646;stop-opacity:0.07843138;"
+         offset="0"
+         id="stop3835" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.27450982;"
+         offset="1"
+         id="stop3837" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3823">
+      <stop
+         style="stop-color:#464646;stop-opacity:1;"
+         offset="0"
+         id="stop3825" />
+      <stop
+         id="stop3831"
+         offset="0.5"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         style="stop-color:#464646;stop-opacity:1;"
+         offset="1"
+         id="stop3827" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective3876" />
+    <linearGradient
+       id="linearGradient3810">
+      <stop
+         style="stop-color:#ffd799;stop-opacity:1;"
+         offset="0"
+         id="stop3812" />
+      <stop
+         style="stop-color:#fffaf1;stop-opacity:1;"
+         offset="1"
+         id="stop3814" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3810"
+       id="linearGradient3816"
+       x1="404.61679"
+       y1="624.48932"
+       x2="497.05936"
+       y2="560.84973"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(19.697975,-14.647212)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3823"
+       id="linearGradient3829"
+       x1="138.46629"
+       y1="716.13776"
+       x2="361.60339"
+       y2="598.28064"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.6742728,0,0,1.6742728,-42.456462,-504.08582)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3833"
+       id="radialGradient3839"
+       cx="212.28485"
+       cy="598.28064"
+       fx="212.28485"
+       fy="598.28064"
+       r="149.31856"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.6742728,0,0,1.6742728,-42.456462,-504.08582)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.69999999"
+     inkscape:cx="14.494573"
+     inkscape:cy="644.05093"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3837"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:11px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion3839"><rect
+           id="rect3841"
+           width="100"
+           height="94.285713"
+           x="248.57143"
+           y="577.36218"
+           style="font-size:11px" /></flowRegion><flowPara
+         id="flowPara3843" /></flowRoot>    <rect
+       style="fill:url(#radialGradient3839);fill-opacity:1;stroke:url(#linearGradient3829);stroke-width:1.67427278"
+       id="rect3033"
+       width="498.32571"
+       height="498.32571"
+       x="63.803432"
+       y="248.43636"
+       ry="46.127834"
+       inkscape:export-filename="E:\Escritorio\vcard editor.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g3035"
+       transform="matrix(1.6742728,0,0,1.6742728,-369.71739,-510.8509)"
+       inkscape:export-filename="E:\Escritorio\vcard editor.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="E:\Escritorio\vcard editor.png"
+         sodipodi:nodetypes="ccccccccsc"
+         inkscape:connector-curvature="0"
+         id="path2996"
+         d="m 546.5538,525.4197 -0.56635,152.68097 -6.06092,6.56599 -264.15489,-0.50508 -6.06091,-4.04061 -1.01016,-125.25891 35.86042,-37.37565 233.40651,-0.14793 c 0,0 4.61269,0.9887 6.25744,2.61204 1.49944,1.47992 2.32886,5.46918 2.32886,5.46918 z"
+         style="fill:#e7e6e7;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="E:\Escritorio\vcard editor.png"
+         ry="19.682888"
+         y="535.19965"
+         x="375.39691"
+         height="131.10211"
+         width="144.31636"
+         id="rect2998"
+         style="fill:url(#linearGradient3816);fill-opacity:1;stroke:#000000;stroke-width:2.16933823;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="E:\Escritorio\vcard editor.png"
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path3776"
+         d="m 379.51939,542.89355 45.53572,0.17856 0,-7.5"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="E:\Escritorio\vcard editor.png"
+         inkscape:connector-curvature="0"
+         id="path3778"
+         d="m 472.55511,536.2864 0,6.42857 41.78572,0"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="E:\Escritorio\vcard editor.png"
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path3780"
+         d="m 472.19797,542.71497 -22.85714,22.5 -24.64286,-21.96428"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="E:\Escritorio\vcard editor.png"
+         inkscape:connector-curvature="0"
+         id="path3782"
+         d="m 448.98368,565.57211 -0.35714,9.64286 -27.14286,0.71429 -5.35714,-3.92857 -40.35714,-0.71429"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="E:\Escritorio\vcard editor.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path3784"
+         d="m 448.62654,575.39355 25.71429,0.17856 4.28571,-3.92857 40.35715,-0.35714"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="E:\Escritorio\vcard editor.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path3786"
+         d="m 421.48368,576.10783 0,47.32143 -3.57142,3.21428 -41.25,0.71429"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="E:\Escritorio\vcard editor.png"
+         inkscape:connector-curvature="0"
+         id="path3788"
+         d="m 421.12654,599.14354 -44.64286,0.71429"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="E:\Escritorio\vcard editor.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path3790"
+         d="m 474.34083,576.10783 0,45.89286 4.28571,5.35714 40.17857,-0.17858"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="E:\Escritorio\vcard editor.png"
+         inkscape:connector-curvature="0"
+         id="path3792"
+         d="m 474.34083,599.85783 45,-0.35714"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="E:\Escritorio\vcard editor.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path3794"
+         d="m 474.16225,622.35783 -26.42856,0 -0.17858,10.35714 -24.10714,25"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="E:\Escritorio\vcard editor.png"
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path3796"
+         d="m 447.73368,632.89355 23.03572,24.10714 0,8.39286"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="E:\Escritorio\vcard editor.png"
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path3798"
+         d="m 470.7694,657.35783 45.17857,-0.17858"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="E:\Escritorio\vcard editor.png"
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path3800"
+         d="m 423.62654,665.57212 0,-8.21429 -45,0"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="E:\Escritorio\vcard editor.png"
+         transform="scale(0.71825768,1.392258)"
+         sodipodi:linespacing="125%"
+         id="text3025"
+         y="423.61084"
+         x="383.14355"
+         style="font-size:36.6399765px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Rod;-inkscape-font-specification:Rod Bold"
+         xml:space="preserve"><tspan
+           y="423.61084"
+           x="383.14355"
+           id="tspan3027"
+           sodipodi:role="line">VCard</tspan><tspan
+           id="tspan3029"
+           y="469.4108"
+           x="383.14355"
+           sodipodi:role="line">Editor</tspan></text>
+    </g>
+  </g>
+</svg>
